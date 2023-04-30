@@ -1,0 +1,9 @@
+either user input or a word picked from a selection is kept hidden
+then the player takes turn guessing trying to get the word
+if a correct letter is entered but wrong place, the letter will be revealed with parenthesis around it
+if a correct letter is entered and right place, the letter will be revealed
+if a wrong letter then nothing happens, word stays blocked out
+6 tries to guess word
+
+
+
